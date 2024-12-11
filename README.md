@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as a Full-Stack Developer with expertise in Spring Boot and React, building scalable web applications and APIs.  <br>👯 I’m looking to collaborate on innovative projects that merge backend efficiency with interactive user interfaces.  <br>🤝 I’m seeking opportunities to explore microservices, cloud deployment, and performance optimization.  <br>🌱 I’m continuously learning and sharpening my skills in React ecosystem, Java Spring frameworks, and design patterns.  <br>💬 Ask me about building robust REST APIs, solving dynamic programming problems, or creating engaging frontend experiences.  <br>⚡ Fun fact: I turned my passion for coding into a career and love participating in hackathons to push my creative limits!
 
-
+<img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952rynyeld8dng0t0i8wubh574n29f0zn8vjb2x6p6b&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-manyam) 
 
