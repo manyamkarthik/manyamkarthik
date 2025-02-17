@@ -1,8 +1,6 @@
 # 💫 About Me:
 <img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952rynyeld8dng0t0i8wubh574n29f0zn8vjb2x6p6b&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
-🔭 I’m currently working as a Full-Stack Developer with expertise in Backend Web Frameworks and React, building scalable web applications and APIs.  <br>👯 I’m looking to collaborate on innovative projects that merge backend efficiency with interactive user interfaces.  <br>🤝 I’m seeking opportunities to explore microservices, cloud deployment, and performance optimization.  <br>🌱 I’m continuously learning and sharpening my skills in React ecosystem, Web frameworks, and design patterns.  <br>💬 Ask me about building robust REST APIs, Fast API's, or creating engaging frontend experiences.  <br>⚡ Fun fact: I turned my passion for coding into a career and love participating in hackathons to push my creative limits!
-
-
+🔭 I’m currently working as a Data Scientist, leveraging Machine Learning to derive insights and build predictive models. <br>👯 I’m looking to collaborate on innovative projects that combine data-driven decision-making with scalable AI solutions. <br>🤝 I’m seeking opportunities to explore advanced machine learning techniques, model optimization, and cloud-based AI deployment. <br>🌱 I’m continuously learning and sharpening my skills in Data Science, Machine Learning algorithms, and statistical modeling. <br>💬 Ask me about data analysis, building predictive models, or fine-tuning ML algorithms for real-world applications. <br>⚡ Fun fact: I turned my passion for data into a career and love participating in hackathons to solve complex challenges with AI!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/hari-karthik-manyam/) 
