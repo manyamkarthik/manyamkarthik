@@ -1,6 +1,17 @@
 # 💫 About Me:
 <img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952rynyeld8dng0t0i8wubh574n29f0zn8vjb2x6p6b&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
-🔭 I'm currently working as a Software Engineer, building full-stack applications with .NET and leveraging Machine Learning to derive insights and build predictive models. <br>👯 I'm looking to collaborate on innovative projects that combine .NET development with data-driven decision-making and scalable AI solutions. <br>🤝 I'm seeking opportunities to explore advanced machine learning techniques, .NET Core architectures, and cloud-based AI deployment. <br>🌱 I'm continuously learning and sharpening my skills in .NET 8.0, Data Science, Machine Learning algorithms, and statistical modeling. <br>💬 Ask me about .NET development, data analysis, building predictive models, or fine-tuning ML algorithms for real-world applications. <br>⚡ Fun fact: I turned my passion for coding and data into a career and love participating in hackathons to solve complex challenges with AI and modern .NET technologies!
+
+🔭 I'm currently working as an AI Engineer at SS&C, focusing on fine-tuning large language models (LLMs) and building robust AI pipelines for internal financial systems. I work across MCP, SFT, and RFT processes involving GROP optimization and scalable deployment.
+
+👯 I'm looking to collaborate on advanced AI systems that integrate Retrieval-Augmented Generation (RAG), Agentic AI workflows, and LangGraph-based architectures for modular, multi-agent intelligence.
+
+🤝 I'm seeking opportunities to explore real-world applications of LLM fine-tuning, multi-agent coordination, and adaptive learning systems in enterprise contexts.
+
+🌱 I'm continuously sharpening my skills in LangGraph, prompt orchestration, RAG pipelines, custom model tuning, and orchestrating AI workflows that are scalable and interpretable.
+
+💬 Ask me about model fine-tuning (SFT/RFT), building MCP workflows, implementing RAG with LangChain or LangGraph, and designing Agentic AI systems for financial and enterprise use cases.
+
+⚡ Fun fact: I’m passionate about transforming complex workflows into intelligent systems—and I love pushing the limits of AI in high-impact enterprise environments.
 
 
 # 💻 Tech Stack:
